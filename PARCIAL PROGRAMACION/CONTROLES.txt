@@ -1,0 +1,4 @@
+CONTROLES
+
+A y D: Movimiento de izquierda a derecha
+Space bar: Disparar
